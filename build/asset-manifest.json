@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c2efce1.chunk.css",
+    "main.js": "/static/js/main.418298f8.chunk.js",
+    "main.js.map": "/static/js/main.418298f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20e98d1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20e98d1f.js.map",
+    "static/js/2.1b9bfb07.chunk.js": "/static/js/2.1b9bfb07.chunk.js",
+    "static/js/2.1b9bfb07.chunk.js.map": "/static/js/2.1b9bfb07.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82894090e53504f349575064c58bb739.js": "/precache-manifest.82894090e53504f349575064c58bb739.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3c2efce1.chunk.css.map": "/static/css/main.3c2efce1.chunk.css.map",
+    "static/js/2.1b9bfb07.chunk.js.LICENSE.txt": "/static/js/2.1b9bfb07.chunk.js.LICENSE.txt",
+    "static/media/1on1_asset.svg": "/static/media/1on1_asset.81cf532f.svg",
+    "static/media/ENDCALL.svg": "/static/media/ENDCALL.f27dcf5d.svg",
+    "static/media/MIC_OFF.svg": "/static/media/MIC_OFF.a7b26dd1.svg",
+    "static/media/MIC_ON.svg": "/static/media/MIC_ON.31971651.svg",
+    "static/media/VIDEO_OFF.svg": "/static/media/VIDEO_OFF.10e9454f.svg",
+    "static/media/VIDEO_ON.svg": "/static/media/VIDEO_ON.b7de8bfe.svg",
+    "static/media/arrow_back.svg": "/static/media/arrow_back.a0f523bd.svg",
+    "static/media/logo_webbanner.png": "/static/media/logo_webbanner.1f2ecda3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e98d1f.js",
+    "static/js/2.1b9bfb07.chunk.js",
+    "static/css/main.3c2efce1.chunk.css",
+    "static/js/main.418298f8.chunk.js"
+  ]
+}
