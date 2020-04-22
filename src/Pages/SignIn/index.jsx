@@ -38,7 +38,7 @@ class SignInPage extends Component {
           </div>
     </div>
      <div className="lead-text margin-top-120">
-     APEX PRACTITIONER LOGIN
+     APEXX PRACTITIONER LOGIN
     </div>
     <div className="center flex-1">
       <div className="inline-block margin-top-16">

@@ -46,7 +46,7 @@ class SignUpPage extends Component {
         <div>
         <div className="lead-text margin-top-16">
         <div style={{ fontWeight: "bold" }}>
-        APEX PATIENT SIGNUP 
+        APEXX PATIENT SIGNUP 
         </div>
         </div>
         </div>
